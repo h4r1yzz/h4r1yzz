@@ -9,6 +9,8 @@
 
 - 🤝 House price Analysis [github.com/h4r1yzz/HousePrice-Analysis](https://github.com/h4r1yzz/HousePrice-Analysis)
 
+- 👋 Breast Cancer Detection [github.com/h4r1yzz/BreastCancer](https://github.com/h4r1yzz/BreastCancer)
+
 - 👨‍💻 All of my projects are available at [github.com/h4r1yzz](https://github.com/h4r1yzz)
 
 <h3 align="left">Connect with me:</h3>
