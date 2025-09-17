@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harry Chandra Tsjan</h1>
-<h3 align="justify">Hi, I’m Harry! I’m a software engineer who loves building things end-to-end — from web services and cloud-native apps to APIs and microservices. Over time, I’ve found myself especially drawn to data science and AI engineering, where I get to combine problem-solving with creativity. I enjoy diving into projects that let me explore new technologies, experiment with data, and apply AI to real-world challenges. I’m always curious, always learning, and excited about turning ideas into impactful solutions.</h3>
+<h3 align="justify">Hi, I’m Harry! I’m a software engineer who loves building things end-to-end from web services and cloud-native apps to APIs and microservices. Over time, I’ve found myself especially drawn to data science and AI engineering, where I get to combine problem-solving with creativity. I enjoy diving into projects that let me explore new technologies, experiment with data, and apply AI to real-world challenges. I’m always curious, always learning, and excited about turning ideas into impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4r1yzz&label=Profile%20views&color=0e75b6&style=flat" alt="h4r1yzz" /> </p>
 
