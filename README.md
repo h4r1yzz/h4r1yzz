@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4r1yzz&label=Profile%20views&color=0e75b6&style=flat" alt="h4r1yzz" /> </p>
 
-- 🔭 Crafting Application Project [github.com/h4r1yzz/Crafting-Application](https://github.com/h4r1yzz/Crafting-Application)
+You can check out my portfolio here 
 
-- 👯 Stock Analysis [github.com/h4r1yzz/stock](https://github.com/h4r1yzz/stock)
+- 🔭 ICraft [github.com/h4r1yzz/Crafting-Application](https://github.com/h4r1yzz/Crafting-Application)
 
-- 🤝 House price Analysis [github.com/h4r1yzz/HousePrice-Analysis](https://github.com/h4r1yzz/HousePrice-Analysis)
+- 👯 StockVision [github.com/h4r1yzz/stock](https://github.com/h4r1yzz/stock)
 
-- 👋 Breast Cancer Detection [github.com/h4r1yzz/BreastCancer](https://github.com/h4r1yzz/BreastCancer)
+- 🤝 HousePrice [github.com/h4r1yzz/HousePrice-Analysis](https://github.com/h4r1yzz/HousePrice-Analysis)
+
+- 👋 BreastCancer [github.com/h4r1yzz/BreastCancer](https://github.com/h4r1yzz/BreastCancer)
 
 - 👨‍💻 All of my projects are available at [github.com/h4r1yzz](https://github.com/h4r1yzz)
 
