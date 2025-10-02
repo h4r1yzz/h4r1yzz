@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4r1yzz&label=Profile%20views&color=0e75b6&style=flat" alt="h4r1yzz" /> </p>
 
-You can check out my portfolio here [portfolio-otnqf1ufw-h4r1yzzs-projects.vercel.app/](https://portfolio-otnqf1ufw-h4r1yzzs-projects.vercel.app/)
+You can check out my portfolio here [Portfolio](https://portfolio-otnqf1ufw-h4r1yzzs-projects.vercel.app/)
 
 - 🔭 ICraft [github.com/h4r1yzz/Crafting-Application](https://github.com/h4r1yzz/Crafting-Application)
 
