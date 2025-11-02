@@ -7,7 +7,7 @@ You can check out my portfolio here [Portfolio](https://portfolio-otnqf1ufw-h4r1
 
 - 🔭 ICraft [github.com/h4r1yzz/Crafting-Application](https://github.com/h4r1yzz/Crafting-Application)
 
-- 👯 StockVision [github.com/h4r1yzz/stock](https://github.com/h4r1yzz/stock)
+- 👯 WellLog [github.com/h4r1yzz/mcp_langchain](https://github.com/h4r1yzz/mcp_langchain)
 
 - 🤝 HousePrice [github.com/h4r1yzz/HousePrice-Analysis](https://github.com/h4r1yzz/HousePrice-Analysis)
 
