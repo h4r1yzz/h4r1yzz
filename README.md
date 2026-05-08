@@ -23,10 +23,10 @@
 <h2>📘 My Top Open Source Projects</h2>
 
   <p align="left">
-    <a href="https://github.com/h4r1yzz/Crafting-Application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h4r1yzz&repo=Crafting-Application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Crafting-Application"></a>
-    <a href="https://github.com/h4r1yzz/mcp_langchain"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h4r1yzz&repo=mcp_langchain&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mcp_langchain"></a>
-    <a href="https://github.com/h4r1yzz/HousePrice-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h4r1yzz&repo=HousePrice-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="HousePrice-Analysis"></a>
-    <a href="https://github.com/h4r1yzz/BreastCancer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h4r1yzz&repo=BreastCancer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="BreastCancer"></a>
+    <a href="https://github.com/h4r1yzz/Crafting-Application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h4r1yzz&repo=Crafting-Application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&nocache=1" alt="Crafting-Application"></a>
+    <a href="https://github.com/h4r1yzz/mcp_langchain"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h4r1yzz&repo=mcp_langchain&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&nocache=1" alt="mcp_langchain"></a>
+    <a href="https://github.com/h4r1yzz/HousePrice-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h4r1yzz&repo=HousePrice-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&nocache=1" alt="HousePrice-Analysis"></a>
+    <a href="https://github.com/h4r1yzz/BreastCancer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h4r1yzz&repo=BreastCancer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&nocache=1" alt="BreastCancer"></a>
   </p>
 
   <a href="https://github.com/h4r1yzz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
